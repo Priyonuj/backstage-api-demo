@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yaml2textdes
+  description: |
+    This API converts YAML data to PlantUML image, enabling rapid diagram generation from configuration files.
+  links:
+    - title: API Endpoint
+      url: https://v-fn-001.azurewebsites.net/api/yaml2textdes
+  annotations:
+    github.com/project-slug: Priyonuj/backstage-api-demo
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://v-fn-001.azurewebsites.net/api/yaml2textdes
+spec:
+  type: api
+  owner: Priyonuj Dey
+  lifecycle: development
