@@ -7,7 +7,6 @@ This repository contains the Backstage catalog integration and metadata for the 
 **yaml2textdes** is an API that converts YAML data to PlantUML images, enabling rapid diagram creation from configuration files.
 
 - **API Endpoint**: [https://v-fn-001.azurewebsites.net/api/yaml2textdes](https://v-fn-001.azurewebsites.net/api/yaml2textdes)
-- **Documentation**: [https://v-fn-001.azurewebsites.net/api/yaml2textdes/docs](https://v-fn-001.azurewebsites.net/api/yaml2textdes/docs)
 - **Backstage Catalog Info**: See `catalog-info.yaml`
 
 ## Features
